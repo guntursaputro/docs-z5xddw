@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-4t4lub.privatetalks.online/sitemap.xml
